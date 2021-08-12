@@ -14,3 +14,6 @@ https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon
 
 ## positive and negative
 the positive and negative files are from https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/sentiment-dictionaries/, which is 10 year younger
+
+## NRC-VAD-Lexicon
+the sentiment lexicon from this paper: https://saifmohammad.com/WebDocs/acl2018-VAD.pdf
